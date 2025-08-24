@@ -8,15 +8,15 @@
 
 ###
 
-<h4 align="left">Based in Riyadh, Saudi Arabia | Passionate about  building innovative solutions</h4>
+<h3 align="left">Based in Riyadh, Saudi Arabia | Passionate about  building innovative solutions</h3>
 
 ###
 
-<h5 align="left">Frontend Web Developer | Software Developer | Multilingual Coder | CI/CD & Cloud Enthusiast</h5>
+<h4 align="left">Frontend Web Developer | Software Developer | Multilingual Coder | CI/CD & Cloud Enthusiast</h4>
 
 ###
 
-<h6 align="left">Welcome to my GitHub profile!<br>I'm a passionate Software Developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.<br><br>👩‍💻 I’m currently working as a Web Developer.</h6>
+<h5 align="left">Welcome to my GitHub profile!<br>I'm a passionate Software Developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.<br><br>👩‍💻 I’m currently working as a Web Developer.</h5>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!</h6>
+<h5 align="left">I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!</h5>
 
 ###
 
