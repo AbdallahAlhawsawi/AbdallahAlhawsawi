@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">👋 Hi there, I'm Abdallah Alhaoussawi</h2>
+<h2 align="left">👋 Hi there, I'm Abdallah Alhawsawi</h2>
 
 ###
 
